@@ -11,5 +11,5 @@ You can find a playlist of videos about git By [link](https://www.youtube.com/wa
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;054
 }
